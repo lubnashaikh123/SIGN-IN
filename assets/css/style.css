@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    background-image: url("https://media.istockphoto.com/id/1285096387/photo/banner-blue-bokeh-particles-glitter-awards-dust-gradient-abstract-background-futuristic.jpg?s=612x612&w=0&k=20&c=A2CiyH3I0VyD5c2z6zxUy7APOgEjKKRQwOPmvmc-_44=");
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}
+
+.signInBox{
+    height: 100vh;
+    
+}
